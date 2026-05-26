@@ -24,3 +24,7 @@ htmlcov/
 .idea/
 .vscode/
 *.swp
+
+# docs
+docs/commit_roadmap.md
+docs/learning_roadmap.md
