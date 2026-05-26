@@ -9,7 +9,7 @@ Author: Ameeya Bhusan Sahoo
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 This repository works through the core mathematics of ML - Linear Algebra, calculus, probability, optimization, and then turns that mathematics into working models (linear regression, logistic regression, PCA). Every algorithm is implemented so the formula is visible in the code, documented in a notebook, and covered by tests that check it against NumPy or scikit-learn.
----
+
 ## Why the maths matters?
 
 It is easy to call `model.fit(X, y)` and get a number back. It is much more
