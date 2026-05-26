@@ -15,7 +15,7 @@ This repository works through the core mathematics of ML - Linear Algebra, calcu
 It is easy to call `model.fit(X, y)` and get a number back. It is much more
 useful to know *what that number is, why the optimiser converged, and when the
 method will break*. Understanding the underlying mathematics is what separates
-running a model from reasoning about one — diagnosing a divergent training run,
+running a model from reasoning about one, diagnosing a divergent training run,
 choosing a sensible regulariser, or explaining a result to a stakeholder all
 depend on it. This repo is my attempt to make that understanding concrete by
 rebuilding the foundations rather than importing them.
@@ -144,7 +144,7 @@ First component alone explains 98.5% of the variance.
 
 ## How this connects to my background
 
-I come from theoretical and computational chemistry — electronic-structure
+I come from theoretical and computational chemistry, electronic-structure
 methods, quantum simulation, and large-scale Python scientific computing. A
 surprising amount of that work *is* this mathematics: diagonalising symmetric
 operators, checking gradients with finite differences, and reasoning in
@@ -178,7 +178,7 @@ I am a computational scientist with a background in theoretical/computational
 chemistry, density functional theory, quantum simulation, and Python scientific
 computing, now moving toward data science and applied machine learning. I learn
 best by building things end to end and by connecting abstract mathematics to
-concrete implementation — which is exactly what this repository is. I am
+concrete implementation, which is exactly what this repository is. I am
 especially interested in scientific ML and in roles where mathematical rigour
 and clean engineering both matter.
 
